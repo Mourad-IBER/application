@@ -17,7 +17,7 @@ module.exports = {
       },
       adresse: {
         allowNull: false,
-        type: Sequelize.STRING(30)
+        type: Sequelize.STRING(60)
       },
       ville: {
         allowNull: false,
